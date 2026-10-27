@@ -1,0 +1,6 @@
+{
+  "name": "British Tutor",
+  "description": "Elite British English Tutor & IELTS Voice Call Simulator with Arthur and Eleanor. Master Received Pronunciation, authentic British idioms, and conversational fluency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
